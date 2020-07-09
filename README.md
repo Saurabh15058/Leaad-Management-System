@@ -4,7 +4,8 @@ There are various open source Lead management system available in the market.
 
 The proposed Web Page Application for Lead Management is developed in php.
 The web page is bifurcated in two parts.
-
+Link for first Web page is ---> http://localhost/sales_person/index.php
+Link for second Web page is ---> http://localhost/Lead/index.php
 First is for sales person, where a user can perform CRUD(Create Read Update Delete) operation for various sales persons. Thedetails of sales persons are stored securely in database (containing fields such as:
 1.First Name
 2.Last Name
