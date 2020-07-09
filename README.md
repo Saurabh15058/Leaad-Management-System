@@ -33,3 +33,14 @@ Lead Activities - Record of interactions with the lead including the following -
   
  Assign Leads which shows a list of Leads that are to be assigned to a particular salesperson ( ID, Name, Email).
  Once the "Assignee" button, the page is redirected to sales person page where one can select the particular sales person to which lead is assigned.
+
+For the source code you need to unzip the "LeadManagementSystem.zip" file.
+You will get two folders(Sales_Person and Lead).
+The Sales_Person folder contains the first Web page which I have mentioned above.
+And the Lead folder contains the second Web page which also I have mentioned above.
+
+For the database, you need to import "lead_management.sql" file into your MySql. (The name of Database is "lead_management" which contains two seperate tables for Sales person ("sales_person.sql") and leads ("leads.sql").
+-->> You can Run the links to get the desired LeadManagement System. 
+        http://localhost/sales_person/index.php .
+        http://localhost/Lead/index.php .
+ 
