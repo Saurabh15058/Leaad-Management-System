@@ -1,2 +1,2 @@
-# Leaad-Management-System
+# Lead-Management-System
 Leaad Management System (SSDB).
