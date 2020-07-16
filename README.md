@@ -41,6 +41,6 @@ And the Lead folder contains the second Web page which also I have mentioned abo
 
 For the database, you need to import "lead_management.sql" file into your MySql. (The name of Database is "lead_management" which contains two seperate tables for Sales person ("sales_person.sql") and leads ("leads.sql").
 -->> You can Run the links to get the desired LeadManagement System. 
-        http://localhost/sales_person/index.php .
-        http://localhost/Lead/index.php .
+        http://localhost/Lead_Management_System/Sales_Person/index.php .
+        http://localhost/Lead_Management_System/Lead/index.php .
  
